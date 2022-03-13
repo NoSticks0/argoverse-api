@@ -1,3 +1,8 @@
+# To avoid pushing all the data/generated images to the repo
+707-files/results/*
+argoverse-stereo_v1.1/*
+.python-version
+
 # Ignoring data files #
 #######################
 *.pkl
